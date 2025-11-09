@@ -1,6 +1,3 @@
-# multi-tenant-embeddings-service
-Scalable FastAPI + PostgreSQL(pgvector) microservice for embeddings with live DB migrations and Terraform-based infra
-
 # Multi-Tenant Embeddings Service
 
 A production-grade vector search and embedding storage service supporting multi-tenancy and live MySQL/MS-SQL → PostgreSQL migrations.
